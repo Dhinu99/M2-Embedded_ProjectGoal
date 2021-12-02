@@ -27,3 +27,6 @@ ATmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced R
 # THREAT # 
 - High up-front costs
 - Performance standardization has not yet been streamlined.
+
+![image](https://user-images.githubusercontent.com/94179626/144355231-bf6719d2-860e-4dc4-ac60-1e034e87e6ad.png)
+
